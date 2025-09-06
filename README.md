@@ -1,6 +1,5 @@
 # EcoFinds - Sustainable Marketplace Platform
 
-![EcoFinds Logo](Frontend/src/assets/environmental_logo.svg)
 
 EcoFinds is a sustainable marketplace platform that promotes environmental consciousness by enabling users to buy and sell second-hand items. The platform tracks CO2 savings and encourages sustainable consumption practices through a modern, user-friendly interface.
 
